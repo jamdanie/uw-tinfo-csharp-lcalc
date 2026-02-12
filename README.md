@@ -1,4 +1,4 @@
-# LCalc – C# Console Application
+# LCalc â€“ C# Console Application
 
 ## Overview
 This project was developed as part of a University of Washington (UW) coursework assignment.
@@ -32,7 +32,7 @@ The purpose of this assignment was to reinforce foundational C# concepts and dem
 ## Academic Context
 This project was completed as part of a University of Washington Information Technology coursework assignment.
 
-_Update: practicing pull request workflow._
+
 
 ---
 
