@@ -32,6 +32,8 @@ The purpose of this assignment was to reinforce foundational C# concepts and dem
 ## Academic Context
 This project was completed as part of a University of Washington Information Technology coursework assignment.
 
+_Update: practicing pull request workflow._
+
 ---
 
 **Author:** James Daniels  
