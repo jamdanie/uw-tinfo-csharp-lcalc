@@ -33,7 +33,7 @@ The purpose of this assignment was to reinforce foundational C# concepts and dem
 This project was completed as part of a University of Washington Information Technology coursework assignment.
 
 
-_Quickdraw verified attempt._
+_Quickdraw verified attempt2._
 
 
 ---
